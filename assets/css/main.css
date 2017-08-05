@@ -2405,6 +2405,7 @@
 			.button.special:hover {
 				background-color: #fff;
 				color: #e9dcb6!important;
+				border: solid #e9dcb6 1px;
 			}
 
 			input[type="submit"].special:active,
