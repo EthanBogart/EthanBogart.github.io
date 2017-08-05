@@ -2744,12 +2744,8 @@
 
 		/* Image */
 
-			.image.left, .image.right {
-				max-width: 40%;
-			}
-
 				.image.left img, .image.right img {
-					width: 200px;
+					width: 140px;
 				}
 
 		/* Header */

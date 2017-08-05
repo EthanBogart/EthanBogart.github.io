@@ -1176,10 +1176,8 @@
 			.image {
 				&.left,
 				&.right {
-					max-width: 40%;
-
 					img {
-						width: 200px;
+						width: 140px!important;
 					}
 				}
 			}
