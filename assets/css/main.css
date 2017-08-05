@@ -2398,6 +2398,8 @@
 			background-color: #CAA84A;
 			color: #ffffff !important;
 			margin-bottom: 60px;
+			padding-right: 20px;
+			padding-left: 20px;
 		}
 
 			input[type="submit"].special:hover,
